@@ -38,7 +38,7 @@ To create your own parking lot :
 2. Run ```python ParkingLot.py``` to run the program. This opens a shell where you can write your commands like :
 
 
-    **Example**
+3. Example :
 
 **Input**
 
@@ -81,6 +81,10 @@ KA-01-HH-1234, KA-01-HH-9999, KA-01-P-333
 1, 2, 4  
 6  
 Not found
+
+# Further changes :
+
+We can also add, some very exciting and helpful features in the program.by just making some changes in  our ```Vehicle.py```.  
 
 
 
