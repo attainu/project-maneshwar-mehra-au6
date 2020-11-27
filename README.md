@@ -23,6 +23,21 @@ ParkingLot.py script defines the following functions :
 4. leave x 
 > removes vehicle from slot number x 
 
+5. You can use help command to see all the commands.
+
+6. note 
+> **Vehicle.py**  is a separate class where we can define the type of vehicles that can be parked. As of now, it only contains class Car
+
+
+## How To Run :
+
+To create your own parking lot :
+
+1. Clone the repository.
+
+2. Run ~~python ParkingLot.py~~ to run the program. This opens a shell where you can write your commands like :
+
+
 
 
 
