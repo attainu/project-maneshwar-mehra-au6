@@ -84,7 +84,7 @@ Not found
 
 # Further changes :
 
-We can also add, some very exciting and helpful features in the program.by just making some changes in  our ```Vehicle.py```.  
+We can also add, some very exciting and helpful features in the program by just making some changes in  our ```Vehicle.py``` class.  
 
 
 
